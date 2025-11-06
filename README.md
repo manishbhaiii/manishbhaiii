@@ -33,7 +33,6 @@
 <!-- Discord Presence Embed -->
 <p align="center">
   <a href="https://discord.com/users/1085632219906842644" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1085632219906842644?bg=000000&borderRadius=20px&idleMessage=Sleeping...&theme=dark&showDisplayName=true"/>
     <img src="https://lanyard.cnrad.dev/api/1123856956780728411?bg=000000&borderRadius=20px&idleMessage=Sleeping...&theme=dark&showDisplayName=true"/>
   </a>
 </p>
