@@ -18,6 +18,13 @@
   <a href="https://discord.com/users/1123856956780728411" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/1123856956780728411?bg=0d1117&borderRadius=10px&idleMessage=SLEEPING&theme=dark&showDisplayName=true" />
   </a>
+  
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=BB6BD9&text=Profile%20Views&height=30&fontSize=20" alt="Profile Views Label" />
+  <br/>
+  <img src="https://moe-counter.glitch.me/get/@manishbhaiii?theme=rule34" alt="Moe Counter" />
+  
   <br/><br/>
 
   <p>
@@ -46,5 +53,3 @@
   <img alt="snake animation" src="https://raw.githubusercontent.com/manishbhaiii/manishbhaiii/refs/heads/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
-
-
